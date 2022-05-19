@@ -8,6 +8,12 @@ use the above command on the client side to run client
 use the above command on the server side to run server 
 
 Images:
+<table>
+ <tr>
+    <td><img src="sample-images/capture.png" width=270 height=480></td>
+    <td><img src="sample-images/capture11.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ![Capture](https://user-images.githubusercontent.com/105050632/169303358-c9ee1703-f495-4d9b-8f74-f9fd45eeb59e.PNG)
 ![Capture1](https://user-images.githubusercontent.com/105050632/169303366-47c1811d-27f3-4389-be57-a0f2b8f74cd1.PNG)
