@@ -10,7 +10,7 @@ use the above command on the server side to run server
 Images:
 <table>
  <tr>
-  <td>![Capture](https://user-images.githubusercontent.com/105050632/169299984-6cef98e2-cafb-44b5-a97d-1c152c6a3827.PNG)</td>
+  <td><img src="![Capture](https://user-images.githubusercontent.com/105050632/169299984-6cef98e2-cafb-44b5-a97d-1c152c6a3827.PNG)" ></td>
 <td>![Capture1](https://user-images.githubusercontent.com/105050632/169299991-635b5f76-debd-4b38-a531-5e386da438b6.PNG)</td>
  </tr>
  <tr>
