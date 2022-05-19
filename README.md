@@ -8,6 +8,7 @@ use the above command on the client side to run client
 use the above command on the server side to run server 
 
 Images:
+<table>
 ![Capture](https://user-images.githubusercontent.com/105050632/169299984-6cef98e2-cafb-44b5-a97d-1c152c6a3827.PNG)
 ![Capture1](https://user-images.githubusercontent.com/105050632/169299991-635b5f76-debd-4b38-a531-5e386da438b6.PNG)
 ![Capture2](https://user-images.githubusercontent.com/105050632/169299992-8c787d88-5a4d-4ec2-b944-a0cee5e22a18.PNG)
@@ -19,4 +20,5 @@ Images:
 ![Capture8](https://user-images.githubusercontent.com/105050632/169300017-7481b220-a94d-48f7-b1af-2f38015e660c.PNG)
 ![Capture9](https://user-images.githubusercontent.com/105050632/169300019-1b5543cf-9945-4c8f-9d45-fabc53f8dbe2.PNG)
 ![Capture10](https://user-images.githubusercontent.com/105050632/169300507-bffda601-a424-4f5c-8e10-4948cb4c7461.PNG)
+ </table>
 
