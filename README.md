@@ -10,7 +10,13 @@ use the above command on the server side to run server
 Images:
 
 
-<img src="/sample-images/Capture.PNG" width=340px />
+<img src="/sample-images/Capture.PNG" width=340px /><img src="/sample-images/Capture1.PNG" width=340px />
+<img src="/sample-images/Capture2.PNG" width=340px /><img src="/sample-images/Capture3.PNG" width=340px />
+<img src="/sample-images/Capture4.PNG" width=340px /><img src="/sample-images/Capture5.PNG" width=340px />
+<img src="/sample-images/Capture6.PNG" width=340px /><img src="/sample-images/Capture7.PNG" width=340px />
+<img src="/sample-images/Capture8.PNG" width=340px /><img src="/sample-images/Capture9.PNG" width=340px />
+<img src="/sample-images/Capture91.PNG" width=340px />
+
 
 ![Capture](https://user-images.githubusercontent.com/105050632/169303358-c9ee1703-f495-4d9b-8f74-f9fd45eeb59e.PNG)
 ![Capture1](https://user-images.githubusercontent.com/105050632/169303366-47c1811d-27f3-4389-be57-a0f2b8f74cd1.PNG)
