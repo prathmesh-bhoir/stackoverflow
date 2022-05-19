@@ -11,7 +11,7 @@ Images:
 <table>
  <tr>
     <td><img src="stackoverflow/sample-images/capture.png" width=270 height=480></td>
-    <td><img src="/sample-images/capture11.png" width=270 height=480></td>
+    <td><img src="/sample-images/capture1.png" width=270 height=480></td>
   </tr>
  </table>
 
