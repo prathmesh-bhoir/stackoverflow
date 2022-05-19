@@ -10,8 +10,8 @@ use the above command on the server side to run server
 Images:
 <table>
  <tr>
-    <td><img src="stackoverflow/sample-images/capture.png" width=270 height=480></td>
-    <td><img src="/sample-images/capture1.png" width=270 height=480></td>
+    <td><img src="stackoverflow/sample-images/capture.png" width=300 height=400></td>
+    <td><img src="/sample-images/capture1.png" width=300 height=400></td>
   </tr>
  </table>
 
